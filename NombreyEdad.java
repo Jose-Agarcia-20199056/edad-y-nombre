@@ -1,5 +1,5 @@
 package tr1;
-import java.util.Scanner;
+import java.util.Scanner; 
 /**
  *
  * @author ginag
